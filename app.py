@@ -2,7 +2,6 @@ from flask import Flask, render_template, request, redirect, url_for, flash, ses
 from flask_login import LoginManager, UserMixin, login_user, login_required, logout_user, current_user
 import pandas as pd
 import os
-from pyngrok import ngrok
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'your-secret'
