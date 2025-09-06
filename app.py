@@ -38,7 +38,7 @@ translations = {
         'about': 'About',
         'about_text': 'Our company is committed to delivering reliable, user-friendly, and modern software tools that help businesses optimize costs efficiently.',
         'contact': 'Contact',
-        'contact_text': 'Email: info@company.com | Phone: +123 456 7890',
+        'contact_text': 'Email: fidar.fanavar.hermes@gmail.com | Phone: +98 914 419 9484',
         'enter_system': 'Enter System',
         'video_not_supported': 'Your browser does not support the video tag.',
         'buyer_welcome': 'Welcome to Your Last Cost Calculator',
@@ -51,7 +51,7 @@ translations = {
         'exclusive_image3_caption': 'Diverse range of hydraulic products',
         'products_stat': 'Products',
         'years_stat': 'Years in Business',
-        'buyer_contact_text': 'Phone:  | Address: Iran, Tabriz, Automotive Technology Industrial Park, Third Street'
+        'buyer_contact_text': 'Phone: +98 914 361 1140 | Address: Iran, Tabriz, Automotive Technology Industrial Park, Third Street'
     },
     'fa': {
         'app_title': 'محاسبه گر هزینه محصولات',
@@ -82,7 +82,7 @@ translations = {
         'about': 'درباره ما',
         'about_text': 'شرکت ما متعهد به ارائه ابزارهای نرم‌افزاری قابل اعتماد، کاربرپسند و مدرن برای کمک به بهینه‌سازی هزینه‌هاست.',
         'contact': 'تماس',
-        'contact_text': 'ایمیل: info@company.com | تلفن: +123 456 7890',
+        'contact_text': 'ایمیل: fidar.fanavar.hermes@gmail.com | +تلفن: 98 914 419 9484',
         'enter_system': 'ورود به سیستم',
         'video_not_supported': 'مرورگر شما از تگ ویدیو پشتیبانی نمی‌کند.',
         'buyer_welcome': 'به محاسبه‌گر هزینه محصولات خود خوش آمدید',
@@ -95,7 +95,7 @@ translations = {
         'exclusive_image3_caption': 'طیف متنوعی از محصولات هیدرولیک',
         'products_stat': 'محصولات',
         'years_stat': 'سال فعالیت',
-        'buyer_contact_text': '| تلفن: | آدرس:ایران، تبریز، شهرک صنعتی فناوری خودرو، خیابان سوم'
+        'buyer_contact_text': '| تلفن:98 914 361 1140+| آدرس:ایران، تبریز، شهرک صنعتی فناوری خودرو، خیابان سوم'
     },
     'tr': {
         'app_title': 'Ürünler Maliyet Hesaplayıcı',
@@ -126,7 +126,7 @@ translations = {
         'about': 'Hakkımızda',
         'about_text': 'Şirketimiz güvenilir, kullanıcı dostu ve modern yazılım araçları sunmayı taahhüt eder.',
         'contact': 'İletişim',
-        'contact_text': 'E-posta: info@company.com | Telefon: +123 456 7890',
+        'contact_text': 'E-posta: fidar.fanavar.hermes@gmail.com | Telefon: +98 914 419 9484',
         'enter_system': 'Sisteme Giriş',
         'video_not_supported': 'Tarayıcınız video etiketini desteklemiyor.',
         'buyer_welcome': 'Maliyet Hesaplayıcınıza Hoş Geldiniz',
@@ -139,7 +139,7 @@ translations = {
         'exclusive_image3_caption': 'Hidrolik ürünlerin çeşitli yelpazesi',
         'products_stat': 'Ürünler',
         'years_stat': 'İş Yılı',
-        'buyer_contact_text': '| Telefon: | Adres: İran, Tebriz, Otomotiv Teknolojisi Endüstri Parkı, Üçüncü Cadde'
+        'buyer_contact_text': '| Telefon: +98 914 361 1140| Adres: İran, Tebriz, Otomotiv Teknolojisi Endüstri Parkı, Üçüncü Cadde'
     }
 }
 
